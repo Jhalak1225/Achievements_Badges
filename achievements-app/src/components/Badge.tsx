@@ -1,4 +1,5 @@
 import React from 'react';
+import 'Bagdes.css';
 
 type BadgeProps = {
   title: string;
