@@ -1,10 +1,14 @@
 {
   "dependencies": {
+    "react": "^19.1.0",
+    "react-scripts": "^5.0.1"
+
 
     "react": "^19.1.0",
     "react-scripts": "^5.0.1"
 
     "react": "^19.1.0"
+
 
   },
   "devDependencies": {
@@ -14,6 +18,12 @@
   },
   "scripts": {
     "dev": "react-scripts start"
+
+
+  },
+  "scripts": {
+    "dev": "react-scripts start"
+
 
   }
 }
